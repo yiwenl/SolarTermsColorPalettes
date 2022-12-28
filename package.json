@@ -1,0 +1,19 @@
+{
+  "name": "solartermscolorpalettes",
+  "version": "1.0.0",
+  "description": "Color Palettes that inspired by Chinese 24 solar terms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yiwenl@github.com/yiwenl/SolarTermsColorPalettes.git"
+  },
+  "author": "Yi-Wen LIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiwenl/SolarTermsColorPalettes/issues"
+  },
+  "homepage": "https://github.com/yiwenl/SolarTermsColorPalettes#readme"
+}
