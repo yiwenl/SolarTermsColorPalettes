@@ -80,6 +80,141 @@ const colorPalettes = [
       { name: "順聖", value: [124, 25, 30] },
     ],
   },
+  {
+    name: "桃始華",
+    colors: [
+      { name: "桃夭", value: [246, 190, 200] },
+      { name: "楊妃", value: [240, 145, 160] },
+      { name: "長春", value: [220, 107, 130] },
+      { name: "牙緋", value: [195, 92, 93] },
+    ],
+  },
+  {
+    name: "倉庚鳴",
+    colors: [
+      { name: "黃栗留", value: [254, 220, 94] },
+      { name: "梔子", value: [250, 192, 61] },
+      { name: "黃不老", value: [219, 155, 52] },
+      { name: "柘黃", value: [198, 121, 21] },
+    ],
+  },
+  {
+    name: "鷹化為鳩",
+    colors: [
+      { name: "青鸞", value: [154, 167, 177] },
+      { name: "菘監", value: [107, 121, 142] },
+      { name: "青黛", value: [69, 70, 94] },
+      { name: "紺蝶", value: [44, 47, 59] },
+    ],
+  },
+  {
+    name: "春分",
+    colors: [
+      { name: "皦玉", value: [235, 238, 232] },
+      { name: "吉量", value: [235, 237, 223] },
+      { name: "韶粉", value: [224, 224, 208] },
+      { name: "霜地", value: [199, 198, 182] },
+    ],
+  },
+  {
+    name: "玄鳥至",
+    colors: [
+      { name: "夏籥", value: [210, 175, 157] },
+      { name: "紫磨金", value: [188, 131, 107] },
+      { name: "檀色", value: [178, 109, 93] },
+      { name: "赭羅", value: [154, 102, 85] },
+    ],
+  },
+  {
+    name: "雷乃發聲",
+    colors: [
+      { name: "黃丹", value: [234, 85, 20] },
+      { name: "洛神珠", value: [210, 57, 24] },
+      { name: "丹雘", value: [200, 22, 29] },
+      { name: "水華朱", value: [167, 33, 38] },
+    ],
+  },
+  {
+    name: "始電",
+    colors: [
+      { name: "青冥", value: [50, 113, 174] },
+      { name: "青雘", value: [0, 113, 117] },
+      { name: "青緺", value: [40, 72, 82] },
+      { name: "騏驎", value: [18, 38, 79] },
+    ],
+  },
+  {
+    name: "清明",
+    colors: [
+      { name: "紫蒲", value: [166, 85, 157] },
+      { name: "赬紫", value: [138, 24, 116] },
+      { name: "齊紫", value: [108, 33, 109] },
+      { name: "凝夜紫", value: [66, 34, 86] },
+    ],
+  },
+  {
+    name: "桐始華",
+    colors: [
+      { name: "凍縹", value: [190, 194, 179] },
+      { name: "春碧", value: [157, 157, 130] },
+      { name: "執大象", value: [145, 145, 119] },
+      { name: "苔古", value: [121, 131, 108] },
+    ],
+  },
+  {
+    name: "田鼠化為鴑",
+    colors: [
+      { name: "香爐紫煙", value: [211, 204, 214] },
+      { name: "紫菂", value: [155, 142, 169] },
+      { name: "拂紫綿", value: [126, 82, 127] },
+      { name: "三公子", value: [102, 61, 116] },
+    ],
+  },
+  {
+    name: "虹始見",
+    colors: [
+      { name: "琅玕紫", value: [203, 92, 131] },
+      { name: "紅躑躅", value: [184, 53, 112] },
+      { name: "魏紅", value: [167, 55, 102] },
+      { name: "魏紫", value: [144, 55, 84] },
+    ],
+  },
+  {
+    name: "穀雨",
+    colors: [
+      { name: "昌榮", value: [220, 199, 225] },
+      { name: "紫薄汗", value: [187, 161, 203] },
+      { name: "茈藐", value: [166, 126, 183] },
+      { name: "紫紶", value: [125, 82, 132] },
+    ],
+  },
+  {
+    name: "萍始生",
+    colors: [
+      { name: "蒼葭", value: [168, 191, 143] },
+      { name: "庭蕪綠", value: [104, 148, 92] },
+      { name: "翠微", value: [76, 128, 69] },
+      { name: "翠虯", value: [68, 106, 55] },
+    ],
+  },
+  {
+    name: "鳴鳩拂其羽",
+    colors: [
+      { name: "碧落", value: [174, 208, 238] },
+      { name: "挼藍", value: [110, 155, 197] },
+      { name: "青雀頭黛", value: [53, 78, 107] },
+      { name: "螺子黛", value: [19, 57, 62] },
+    ],
+  },
+  {
+    name: "戴勝降於桑",
+    colors: [
+      { name: "露褐", value: [189, 130, 83] },
+      { name: "檀褐", value: [148, 86, 53] },
+      { name: "緅絺", value: [128, 76, 46] },
+      { name: "目童子", value: [91, 50, 34] },
+    ],
+  },
 ];
 
 export const getColorPalette = () => {
@@ -87,6 +222,7 @@ export const getColorPalette = () => {
 };
 
 export const getRandomColor = () => {
+  console.log(colorPalettes.length);
   return colorPalettes[colorPalettes.length - 1];
   return colorPalettes[Math.floor(Math.random() * colorPalettes.length)];
 };
