@@ -479,6 +479,486 @@ const colorPalettes = [
       { name: "目童子", value: [91, 50, 34] },
     ],
   },
+  {
+    name: "",
+    solarTerm: "立夏",
+    colors: [
+      { name: "", value: [195, 217, 78] },
+      { name: "", value: [183, 211, 50] },
+      { name: "", value: [158, 188, 25] },
+      { name: "", value: [132, 167, 41] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "立夏",
+    colors: [
+      { name: "", value: [223, 206, 180] },
+      { name: "", value: [191, 167, 130] },
+      { name: "", value: [180, 155, 127] },
+      { name: "", value: [148, 120, 79] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "立夏",
+    colors: [
+      { name: "", value: [190, 194, 188] },
+      { name: "", value: [168, 161, 156] },
+      { name: "", value: [146, 137, 123] },
+      { name: "", value: [112, 105, 93] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "立夏",
+    colors: [
+      { name: "", value: [242, 154, 118] },
+      { name: "", value: [237, 109, 61] },
+      { name: "", value: [233, 72, 41] },
+      { name: "", value: [230, 0, 18] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "小滿",
+    colors: [
+      { name: "", value: [226, 162, 172] },
+      { name: "", value: [221, 107, 123] },
+      { name: "", value: [194, 81, 96] },
+      { name: "", value: [184, 26, 53] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "小滿",
+    colors: [
+      { name: "", value: [106, 141, 82] },
+      { name: "", value: [93, 131, 81] },
+      { name: "", value: [79, 121, 74] },
+      { name: "", value: [42, 110, 63] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "小滿",
+    colors: [
+      { name: "", value: [212, 201, 170] },
+      { name: "", value: [180, 163, 121] },
+      { name: "", value: [158, 131, 88] },
+      { name: "", value: [129, 102, 59] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "小滿",
+    colors: [
+      { name: "", value: [242, 200, 103] },
+      { name: "", value: [211, 162, 55] },
+      { name: "", value: [208, 134, 53] },
+      { name: "", value: [159, 96, 39] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "芒種",
+    colors: [
+      { name: "", value: [213, 209, 174] },
+      { name: "", value: [191, 192, 150] },
+      { name: "", value: [169, 168, 134] },
+      { name: "", value: [146, 144, 93] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "芒種",
+    colors: [
+      { name: "", value: [179, 181, 156] },
+      { name: "", value: [168, 176, 146] },
+      { name: "", value: [169, 167, 115] },
+      { name: "", value: [134, 140, 78] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "芒種",
+    colors: [
+      { name: "", value: [221, 187, 153] },
+      { name: "", value: [210, 163, 108] },
+      { name: "", value: [190, 148, 87] },
+      { name: "", value: [180, 136, 77] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "芒種",
+    colors: [
+      { name: "", value: [83, 81, 100] },
+      { name: "", value: [69, 70, 89] },
+      { name: "", value: [52, 48, 65] },
+      { name: "", value: [30, 39, 50] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "夏至",
+    colors: [
+      { name: "", value: [203, 82, 62] },
+      { name: "", value: [177, 59, 46] },
+      { name: "", value: [149, 48, 46] },
+      { name: "", value: [130, 35, 39] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "夏至",
+    colors: [
+      { name: "", value: [178, 182, 182] },
+      { name: "", value: [167, 170, 161] },
+      { name: "", value: [122, 123, 120] },
+      { name: "", value: [104, 106, 103] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "夏至",
+    colors: [
+      { name: "", value: [240, 194, 162] },
+      { name: "", value: [219, 156, 94] },
+      { name: "", value: [217, 136, 61] },
+      { name: "", value: [204, 93, 32] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "夏至",
+    colors: [
+      { name: "", value: [245, 243, 242] },
+      { name: "", value: [234, 229, 227] },
+      { name: "", value: [223, 224, 217] },
+      { name: "", value: [212, 211, 202] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "小暑",
+    colors: [
+      { name: "", value: [245, 176, 135] },
+      { name: "", value: [241, 143, 96] },
+      { name: "", value: [239, 132, 93] },
+      { name: "", value: [237, 109, 70] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "小暑",
+    colors: [
+      { name: "", value: [224, 223, 198] },
+      { name: "", value: [191, 185, 156] },
+      { name: "", value: [169, 159, 112] },
+      { name: "", value: [135, 125, 82] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "小暑",
+    colors: [
+      { name: "", value: [149, 64, 36] },
+      { name: "", value: [135, 52, 36] },
+      { name: "", value: [102, 43, 31] },
+      { name: "", value: [76, 30, 26] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "小暑",
+    colors: [
+      { name: "", value: [16, 104, 152] },
+      { name: "", value: [18, 80, 123] },
+      { name: "", value: [6, 67, 111] },
+      { name: "", value: [0, 52, 69] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "大暑",
+    colors: [
+      { name: "", value: [227, 173, 185] },
+      { name: "", value: [207, 146, 158] },
+      { name: "", value: [178, 119, 119] },
+      { name: "", value: [163, 95, 101] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "大暑",
+    colors: [
+      { name: "", value: [237, 241, 187] },
+      { name: "", value: [227, 235, 152] },
+      { name: "", value: [216, 222, 138] },
+      { name: "", value: [205, 209, 113] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "大暑",
+    colors: [
+      { name: "", value: [212, 191, 137] },
+      { name: "", value: [191, 166, 112] },
+      { name: "", value: [170, 142, 89] },
+      { name: "", value: [137, 109, 71] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "大暑",
+    colors: [
+      { name: "", value: [190, 210, 187] },
+      { name: "", value: [155, 180, 150] },
+      { name: "", value: [129, 163, 128] },
+      { name: "", value: [105, 142, 106] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "立秋",
+    colors: [
+      { name: "", value: [136, 171, 218] },
+      { name: "", value: [111, 148, 205] },
+      { name: "", value: [89, 118, 186] },
+      { name: "", value: [46, 89, 167] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "立秋",
+    colors: [
+      { name: "", value: [152, 182, 194] },
+      { name: "", value: [127, 159, 175] },
+      { name: "", value: [102, 143, 139] },
+      { name: "", value: [84, 118, 137] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "立秋",
+    colors: [
+      { name: "", value: [239, 239, 239] },
+      { name: "", value: [216, 209, 197] },
+      { name: "", value: [198, 190, 177] },
+      { name: "", value: [172, 159, 138] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "立秋",
+    colors: [
+      { name: "", value: [192, 208, 157] },
+      { name: "", value: [147, 143, 76] },
+      { name: "", value: [127, 117, 76] },
+      { name: "", value: [89, 83, 51] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "處暑",
+    colors: [
+      { name: "", value: [240, 207, 227] },
+      { name: "", value: [228, 184, 213] },
+      { name: "", value: [206, 147, 192] },
+      { name: "", value: [186, 121, 177] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "處暑",
+    colors: [
+      { name: "", value: [201, 207, 193] },
+      { name: "", value: [168, 183, 140] },
+      { name: "", value: [144, 160, 125] },
+      { name: "", value: [108, 134, 80] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "處暑",
+    colors: [
+      { name: "", value: [162, 210, 226] },
+      { name: "", value: [135, 192, 202] },
+      { name: "", value: [90, 164, 174] },
+      { name: "", value: [16, 139, 150] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "處暑",
+    colors: [
+      { name: "", value: [234, 216, 154] },
+      { name: "", value: [213, 180, 92] },
+      { name: "", value: [191, 156, 70] },
+      { name: "", value: [170, 133, 52] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "白露",
+    colors: [
+      { name: "", value: [245, 242, 233] },
+      { name: "", value: [234, 228, 209] },
+      { name: "", value: [223, 214, 184] },
+      { name: "", value: [213, 200, 160] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "白露",
+    colors: [
+      { name: "", value: [134, 144, 138] },
+      { name: "", value: [107, 125, 115] },
+      { name: "", value: [85, 95, 77] },
+      { name: "", value: [69, 73, 61] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "白露",
+    colors: [
+      { name: "", value: [211, 203, 197] },
+      { name: "", value: [200, 181, 179] },
+      { name: "", value: [146, 129, 135] },
+      { name: "", value: [89, 76, 87] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "白露",
+    colors: [
+      { name: "", value: [196, 183, 152] },
+      { name: "", value: [165, 138, 95] },
+      { name: "", value: [124, 98, 63] },
+      { name: "", value: [100, 77, 49] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "秋分",
+    colors: [
+      { name: "", value: [213, 227, 212] },
+      { name: "", value: [202, 215, 197] },
+      { name: "", value: [190, 202, 183] },
+      { name: "", value: [179, 189, 169] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "秋分",
+    colors: [
+      { name: "", value: [192, 173, 94] },
+      { name: "", value: [170, 150, 73] },
+      { name: "", value: [143, 61, 44] },
+      { name: "", value: [104, 54, 50] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "秋分",
+    colors: [
+      { name: "", value: [74, 148, 196] },
+      { name: "", value: [65, 130, 164] },
+      { name: "", value: [50, 120, 138] },
+      { name: "", value: [0, 109, 135] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "秋分",
+    colors: [
+      { name: "", value: [234, 238, 241] },
+      { name: "", value: [212, 221, 225] },
+      { name: "", value: [189, 203, 210] },
+      { name: "", value: [178, 191, 195] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "寒露",
+    colors: [
+      { name: "", value: [166, 186, 177] },
+      { name: "", value: [129, 157, 142] },
+      { name: "", value: [119, 138, 119] },
+      { name: "", value: [95, 118, 106] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "寒露",
+    colors: [
+      { name: "", value: [221, 176, 120] },
+      { name: "", value: [218, 146, 51] },
+      { name: "", value: [188, 110, 55] },
+      { name: "", value: [159, 82, 33] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "寒露",
+    colors: [
+      { name: "", value: [139, 163, 199] },
+      { name: "", value: [0, 61, 116] },
+      { name: "", value: [25, 50, 95] },
+      { name: "", value: [26, 40, 71] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "寒露",
+    colors: [
+      { name: "", value: [236, 217, 199] },
+      { name: "", value: [225, 193, 153] },
+      { name: "", value: [198, 162, 104] },
+      { name: "", value: [179, 147, 75] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "霜降",
+    colors: [
+      { name: "", value: [209, 41, 32] },
+      { name: "", value: [171, 29, 34] },
+      { name: "", value: [143, 29, 34] },
+      { name: "", value: [99, 18, 22] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "霜降",
+    colors: [
+      { name: "", value: [189, 178, 178] },
+      { name: "", value: [145, 130, 143] },
+      { name: "", value: [106, 91, 109] },
+      { name: "", value: [92, 79, 85] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "霜降",
+    colors: [
+      { name: "", value: [248, 198, 181] },
+      { name: "", value: [218, 158, 140] },
+      { name: "", value: [215, 127, 102] },
+      { name: "", value: [177, 90, 67] },
+    ],
+  },
+  {
+    name: "",
+    solarTerm: "霜降",
+    colors: [
+      { name: "", value: [223, 215, 194] },
+      { name: "", value: [212, 193, 166] },
+      { name: "", value: [190, 167, 139] },
+      { name: "", value: [153, 128, 108] },
+    ],
+  },
 ];
 
 export default colorPalettes;
