@@ -217,11 +217,13 @@ const colorPalettes = [
   },
 ];
 
+export default colorPalettes;
+
 export const getColorPalette = () => {
   console.log("get color palette");
 };
 
-export const getRandomColor = () => {
+export const getRandomPalette = () => {
   console.log(colorPalettes.length);
   return colorPalettes[colorPalettes.length - 1];
   return colorPalettes[Math.floor(Math.random() * colorPalettes.length)];
